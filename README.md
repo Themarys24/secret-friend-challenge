@@ -49,5 +49,8 @@ function restartGame() {
 function clearField() {
   document.getElementById('listaAmigos').innerHTML = '';
 }
+
+## Link  
+[Visite o projeto no Vercel](https://vercel.com/themarys24s-projects/secret-friend)
  
 
