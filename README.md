@@ -27,6 +27,9 @@
   <h1>Demonstração</h1>
   <img src="https://github.com/Themarys24/secret-friend-challenge/blob/main/ChallengeAmigoSecreto-ezgif.com-optimize.gif?raw=true" alt="Secret Drienf Demonstration">
 
+  ## Link  
+[Visite o projeto no Vercel](https://vercel.com/themarys24s-projects/secret-friend)
+
   ## Desenvolvimento Técnico  
 O **Challenge Amigo Secreto** foi criado para colocar em prática conceitos de lógica de programação. As principais funções implementadas incluem:
 
@@ -50,7 +53,6 @@ function clearField() {
   document.getElementById('listaAmigos').innerHTML = '';
 }
 
-## Link  
-[Visite o projeto no Vercel](https://vercel.com/themarys24s-projects/secret-friend)
+
  
 
