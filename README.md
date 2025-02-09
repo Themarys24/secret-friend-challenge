@@ -1,9 +1,5 @@
 <div align="center">
-  <h1 align="center">
-    Amigo Secreto
-    <br />
-    <br />
-        <img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus">
-    </a>
-  </h1>
+  <h1>Amigo Secreto</h1>
+  <br />
+  <img src="https://github.com/Themarys24/secret-friend-challenge/blob/main/Imagens/imagem.jpg?raw=true" alt="Imagem do Amigo Secreto" width="400px">
 </div>
