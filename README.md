@@ -14,7 +14,7 @@
 
 
 ## Introdução
-**Amigo Secreto** é uma ferramenta para sortear nomes de amigos em diversas situações. Seja no Natal para troca de presentes, para definir a ordem de brincadeiras, ou qualquer outra ocasião. Use a criatividade e divirta-se!
+**Amigo Secreto** é uma ferramenta para inserir nomes de amigos para um sorteio. Seja no Natal para trocar presentes, para definir a ordem dos jogos ou qualquer outra ocasião.. Use a criatividade e divirta-se!
 
 ---
 
